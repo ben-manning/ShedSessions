@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ben-manning/ShedSessions/issues"
   },
-  "homepage": "https://github.com/ben-manning/ShedSessions#readme"
+  "homepage": "https://github.com/ben-manning/ShedSessions#readme",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1"
+  }
 }
